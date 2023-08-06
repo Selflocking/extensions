@@ -3,7 +3,7 @@ Helpful extensions for Casbin.NET, such as frontend extension to casbin.js.
 
 ## Frontend
 
-Example of [advanced usage](https://casbin.org/docs/en/frontend#advanced-usage) of authZ
+Example of [advanced usage](https://casbin.org/docs/frontend#advanced-usage) of authZ
 
 ```csharp
 // {...}
